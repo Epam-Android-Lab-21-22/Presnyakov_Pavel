@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="bottomMenuSelectionsNumber">
+        <item name="android:textSize">@dimen/circle_text_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_width">@dimen/bottomMenuSelectionsNumberDim</item>
+        <item name="android:layout_height">@dimen/bottomMenuSelectionsNumberDim</item>
+        <item name="android:layout_gravity">right|bottom</item>
+        <item name="android:layout_marginRight">@dimen/bottomMenuSelectionsNumberMarginR</item>
+        <item name="android:layout_marginBottom">@dimen/bottomMenuSelectionsNumberMarginB</item>
+        <item name="android:gravity">center</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+</resources>

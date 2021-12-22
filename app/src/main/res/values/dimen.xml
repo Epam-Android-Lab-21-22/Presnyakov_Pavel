@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="circle_text_size">8</dimen>
+    <dimen name="bottomMenuSelectionsNumberDim">30</dimen>
+    <dimen name="bottomMenuSelectionsNumberMarginR">3</dimen>
+    <dimen name="bottomMenuSelectionsNumberMarginB">3</dimen>
+</resources>
